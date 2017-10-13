@@ -1,6 +1,6 @@
 ![](http://i.imgur.com/DUiL9yn.png)
 
-# React/Sass/Redux Boilerplate
+# React/Sass/Redux Boilerplate/JsonServer
 
 Boilerplate and guide for a React/Sass/Redux build.
 
